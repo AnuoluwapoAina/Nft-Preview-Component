@@ -141,10 +141,11 @@ hr {
 }
 
 .avatar-image {
-  width: 10%;
+  width: 12%;
   border: 1px solid  hsl(0, 0%, 100%);
   border-radius: 50%;
   margin-right: 10px;
+  margin-bottom: 7px;
 }
 
 .avatar p {
@@ -152,6 +153,7 @@ hr {
   font-weight: 400;
   word-spacing: 1px;
   color: hsl(0, 0%, 100%);
+  margin-top: 7px;
 }
 
 .avatar p:hover {
